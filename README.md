@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/miguelhigueradev-steam-charts-mcp-badge.png)](https://mseep.ai/app/miguelhigueradev-steam-charts-mcp)
+
 # Steam Charts MCP Server
 
 Steam Charts Model Context Protocol server that lets you get statistics using your favorite LLM.
